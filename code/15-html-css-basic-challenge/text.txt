@@ -1,0 +1,28 @@
+Full Week Page (HTML)
+
+title = My Upcoming Challenges 
+
+body = [
+    Main Title = e.g. "My Upcoming Challenges"
+    Link to index.html = e.g. "View Today's Challenge"
+    paragraph with goal 1
+    paragraph with goal 2
+    paragraph with goal 3
+]
+   
+
+CSS
+
+Main Title = "font-family: Oswald"
+paragraph = "font-family: Fira Sans"
+all content should be centered
+bg color: of your choice
+bg color index and full-week should be the same
+
+color for link, paragraph, h1
+
+
+
+Main Page (index.html)
+
+include a link to full-week.html as a paragraph

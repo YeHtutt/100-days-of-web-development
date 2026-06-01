@@ -1,0 +1,9 @@
+p {
+    color: rgb(24, 43, 151);
+}
+
+a {
+    font-size: 40px;
+    display: inline-block;
+    margin: 50px 0 100px 0;
+}
