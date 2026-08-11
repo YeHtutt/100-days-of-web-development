@@ -1,0 +1,16 @@
+[
+  {
+    "name": "test1",
+    "address": "test street 15, test city",
+    "cuisine": "Italian",
+    "website": "https://testgood.de",
+    "description": "bcz good to test!"
+  },
+  {
+    "name": "test2",
+    "address": "test street 2, donut city",
+    "cuisine": "German",
+    "website": "https://tastyfood.com",
+    "description": "very good food!"
+  }
+]
