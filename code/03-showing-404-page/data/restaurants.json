@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Munich Schnitzelhouse",
+    "address": "Greatstreet 5, Munich",
+    "cuisine": "German",
+    "website": "https://great-munich-schnitzel.de",
+    "description": "Very Delicious!",
+    "id": "8946516e-b3dd-4d57-a5ab-5320223c0781"
+  },
+  {
+    "name": "Paparozza",
+    "address": "Friedberger Str. 6",
+    "cuisine": "Italian",
+    "website": "https://tastyIatalia.com",
+    "description": "very nice service. Good meals and good wines. It's heaven.",
+    "id": "9ac50cab-fc8a-4ed5-8cf9-35859a81b5d4"
+  },
+  {
+    "name": "Burger House",
+    "address": "Berliner Alle 3",
+    "cuisine": "American",
+    "website": "https://goodburger.de",
+    "description": "Very tasty! Nice location with river view. Best Burger ever!",
+    "id": "68913bc9-55e0-4dd2-8c0c-9a86fcb7269c"
+  }
+]
